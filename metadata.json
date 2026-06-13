@@ -1,0 +1,6 @@
+{
+  "name": "GamerEdit Studio",
+  "description": "Navegador embebido optimizado para GamerEdit Mobile Studio con gestión de permisos, caché, sesión persistente, guardado de imágenes en alta resolución y sincronización segura en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
